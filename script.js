@@ -10,13 +10,13 @@ let songs = [
     'Bad Bunny Ft. El Alfa El Jefe - Dema Ga Ge Gi Go Gu.mp3',
     'Feliz.mp3',
     'Hola Perdida.mp3',
-    'La Gloria.mp3',
     '2k16.mp3',
     '7 locas.mp3',
     'Forever.mp3',
     'Hannah Montana.mp3',
     'Su hora.mp3',
     'Where you are.mp3',
+    'Pienso en.mp3'
     // Agrega aquí más canciones 
     
 ]
